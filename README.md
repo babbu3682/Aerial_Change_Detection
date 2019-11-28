@@ -1,4 +1,4 @@
-# 제 1회 ICT COC콕 해커톤 대회 최우수작
+# 제 2회 ICT COC콕 해커톤 대회 최우수작
 
 ## Aerial-Change-Detection
 
